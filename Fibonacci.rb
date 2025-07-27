@@ -30,9 +30,6 @@ end
 def merge(arr_left, arr_right)
   result = []
 
-  #mid = arr.length / 2
-  #left = arr.slice(0, mid)
-  #right = arr.slice(mid, arr.length - mid)
   left_idx = 0
   right_idx = 0
 
